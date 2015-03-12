@@ -17,7 +17,7 @@
         "yiisoft/yii2-jui": "*",
         "creocoder/yii2-nested-sets": "0.9.0",
         "gilek/bootstrap-gtreetable" : "*",
-        "gabceb/jquery-browser-plugin": "*",
+        "gabceb/jquery-browser-plugin": "*"
     },
 	"repositories":[
 		{
