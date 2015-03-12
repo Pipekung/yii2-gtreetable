@@ -21,17 +21,17 @@
     },
 	"repositories":[
 		{
-	        "type": "vcs",
-	        "url": "https://github.com/gilek/bootstrap-gtreetable.git"
-	    },
-	    {
+			"type": "vcs",
+	    	"url": "https://github.com/gilek/bootstrap-gtreetable.git"
+		},
+		{
 	        "type": "vcs",
 	        "url": "https://github.com/gabceb/jquery-browser-plugin.git"
-	    }
-    ],
-    "autoload": {
-        "psr-4": {
-            "gilek\\gtreetable\\": ""
-        }
-    }
+		}
+	],
+	"autoload": {
+		"psr-4": {
+		    "gilek\\gtreetable\\": ""
+		}
+	}
 }
